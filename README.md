@@ -5,8 +5,7 @@ Given the CSV File that will be given to you, write a function find_open_restaur
 * If a day of the week is not listed, the restaurant is closed on that day
 * All times are local — don’t worry about timezone-awareness
 * The CSV file will be well-formed
-If you have any questions, let me know. Submit your solution as a ZIP file at the link below.
-Rod.
+
 
 ## Test 2:
 Your task is to write a simple script to transform data.tsv into a properly formatted tab-separated values (TSV) file that can be read by any standard CSV/TSV parser. The resulting file should have the following properties:
